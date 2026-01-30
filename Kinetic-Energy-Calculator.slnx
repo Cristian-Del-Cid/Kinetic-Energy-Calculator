@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Kinetic-Energy-Calculator/Kinetic-Energy-Calculator.vcxproj" Id="577a03e4-105a-4e7b-9af1-d311a1b30012" />
-</Solution>
